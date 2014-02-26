@@ -1,6 +1,6 @@
 package numberGame;
 
-public class guessGame {
+public class GuessGame {
 	Player p1;
 	Player p2;
 	Player p3;

@@ -1,5 +1,5 @@
 
-public class bottle {
+public class Bottle {
 	public static void main(String[] args) {
 		int beerNum = 99;
 		String word = "bottles";

@@ -1,5 +1,5 @@
 
-public class phraseOmatic {
+public class PhraseOmatic {
 	public static void main(String[] args) {
 		// 세 종류의 단어 목록 만들기 
 		String[] wordListOne = {"woono", "ming", "sallygle", "sang-gwun-i", "jen", "gee", "junggang", "mungchunghajeong", "che-woni", "timin", "park-so"};
